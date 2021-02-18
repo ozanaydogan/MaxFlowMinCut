@@ -2,7 +2,7 @@
 Max Flow ve Min cut algoritmalarıyla maksimum kapasitede su akışının tespiti
 
 ilk olarak kaç adet boru bağlantı noktası olduğunu tespit ediyoruz,
-daha sonra suyun girdiği düğümü ve suyun çıktığı düğümleri belirliyoruz
+daha sonra suyun girdiği düğümü ve suyun çıktığı düğümleri belirliyoruz, 1. düğümü 0. düğüm olarak girmeliyiz, yani -1 olarak düşünülmeli
 
 ![2](https://user-images.githubusercontent.com/49997690/108436647-e20d1d00-725c-11eb-9c9b-e158a3b03c16.PNG)
 
