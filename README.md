@@ -27,3 +27,4 @@ min cut butonuna tıklayarak, en az sayıda hangi boru hatlarını yok edersek g
 görüldüğü gibi kesilmesi gereken borular kırmızı renkli gösterilmiş.
 
 MAX FLOW için "Ford Fulkerson", min cut için "EDMONDS KARP" algoritmaları kullanılmıştır.
+Projenin raporunu incelemek isterseniz .pdf dosyasına bakabilirsiniz.
