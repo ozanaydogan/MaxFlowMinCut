@@ -10,7 +10,7 @@ düğümleri birbirine bağlayan boruların kapasitelerini belirliyoruz,
 
 2. düğümden 3. düğüme 8 kapasiteli boru kullandık
 
-![3](https://user-images.githubusercontent.com/49997690/108436673-ec2f1b80-725c-11eb-8e52-21b3d157d7cb.PNG)
+![3](https://user-images.githubusercontent.com/49997690/108437597-bab74f80-725e-11eb-8c90-42cae6c34102.PNG)
 
 deneme butonuna tıkladıktan sonra karşımıza oluşturduğumuz boru hattı gelecek.
 
@@ -22,6 +22,6 @@ max flow butonuna tıklayarak, giriş düğümünden çıkış düğümüne kada
 
 min cut butonuna tıklayarak, en az sayıda hangi boru hatlarını yok edersek girişten çıkışa su akışını durdurma durumunu incelemiş oluruz.
 
-![6](https://user-images.githubusercontent.com/49997690/108436722-036e0900-725d-11eb-9890-4899f639e7a7.PNG)
+![6](https://user-images.githubusercontent.com/49997690/108437606-c0ad3080-725e-11eb-97db-c0c55b348e9a.PNG)
 
 MAX FLOW için "Ford Fulkerson", min cut için "EDMONDS KARP" algoritmaları kullanılmıştır.
