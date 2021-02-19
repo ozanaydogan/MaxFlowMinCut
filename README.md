@@ -20,7 +20,7 @@ max flow butonuna tıklayarak, giriş düğümünden çıkış düğümüne kada
 
 ![5](https://user-images.githubusercontent.com/49997690/108436713-fe10be80-725c-11eb-9f2f-692e92237704.PNG)
 
-min cut butonuna tıklayarak, en az sayıda hangi boru hatlarını yok edersek girişten çıkışa su akışını durdurma durumunu incelemiş oluruz.
+min cut butonuna tıklayarak, en az sayıda ve en az toplam kapasitede hangi boru hatlarını yok edersek girişten çıkışa su akışını durdurma durumunu incelemiş oluruz.
 
 ![6](https://user-images.githubusercontent.com/49997690/108437606-c0ad3080-725e-11eb-97db-c0c55b348e9a.PNG)
 
